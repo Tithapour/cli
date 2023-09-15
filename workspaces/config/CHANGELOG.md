@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.3.0](https://github.com/npm/cli/compare/config-v6.2.1...config-v6.3.0) (2023-09-15)
+
+### Features
+
+* [`66ef765`](https://github.com/npm/cli/commit/66ef76539c5ee2f015b130f53aa2f325f1bf3f84) [#6776](https://github.com/npm/cli/pull/6776) Add `--cpu` and `--os` option to override platform specific install (#6776) (@yukukotani)
+
 ## [6.2.1](https://github.com/npm/cli/compare/config-v6.2.0...config-v6.2.1) (2023-06-21)
 
 ### Bug Fixes
