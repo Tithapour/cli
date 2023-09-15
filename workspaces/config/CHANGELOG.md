@@ -1,5 +1,15 @@
 # Changelog
 
+## [8.0.0](https://github.com/npm/cli/compare/config-v7.2.0...config-v8.0.0) (2023-09-15)
+
+### ⚠️ BREAKING CHANGES
+
+* @npmcli/config now supports node ^16.14.0 || >=18.0.0
+
+### Bug Fixes
+
+* [`92e3f3f`](https://github.com/npm/cli/commit/92e3f3fccc4ed4ed0869731c3ef23f1fa7fa6b1d) [#6807](https://github.com/npm/cli/pull/6807) set engines to ^16.14.0 || >=18.0.0 (@lukekarrys)
+
 ## [7.2.0](https://github.com/npm/cli/compare/config-v7.1.0...config-v7.2.0) (2023-09-08)
 
 ### Features
